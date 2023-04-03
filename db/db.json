@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Duki",
+        "description": "El principal exponente y pionero del género del trap en Argentina, Duki, se presentará en Uruguay, más precisamente en el Velódromo Municipal, el 6 de mayo.",
+        "preview": "https://es.rollingstone.com/wp-content/uploads/2022/03/Duki-en-Lollapalooza-Argentina-2022-banda-rockera-reggaeton-y-romance-en-un-show-multitudinario.jpg",
+        "price": 50,
+        "date": "05-05-2023",
+        "stock": 5000,
+        "soldout": false
+    },
+    {
+        "id": 2,
+        "title": "YSY A",
+        "description": "La experiencia de ver en vivo a YSY A es hace tiempo una de las más potentes y emocionantes de la escena musical argentina , regional y global. Como embajador absoluto del trap argentino. YSY A entrega uno de los show más intensos que se pueden encontrar: una comunión con sus fanáticos que se traduce en un momento verdaderamente inolvidable. Alcanza con preguntarle a cualquier persona que haya asistido a un show de YSY A: cada momento de sus presentaciones constituye una verdadera experiencia multisensorial en la que la música y el concepto fluyen con total naturalidad, generando una conexión absoluta y única entre el artista y su público.",
+        "preview": "https://resizer.glanacion.com/resizer/zf8wpi__3wXjRXfQ3gwhUdpU5GM=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HY2ESIWE45FS5KZHUNTAGZVV5Y.JPG",
+        "price": 50,
+        "date": "08-05-2023",
+        "stock": 1500,
+        "soldout": true
+    },
+    {
+        "id": 3,
+        "title": "Duki",
+        "description": "El principal exponente y pionero del género del trap en Argentina, Duki, se presentará en Uruguay, más precisamente en el Velódromo Municipal, el 6 de mayo.",
+        "preview": "https://es.rollingstone.com/wp-content/uploads/2022/03/Duki-en-Lollapalooza-Argentina-2022-banda-rockera-reggaeton-y-romance-en-un-show-multitudinario.jpg",
+        "price": 50,
+        "date": "05-05-2023",
+        "stock": 5000,
+        "soldout": false
+    },
+    {
+        "id": 4,
+        "title": "YSY A",
+        "description": "La experiencia de ver en vivo a YSY A es hace tiempo una de las más potentes y emocionantes de la escena musical argentina , regional y global. Como embajador absoluto del trap argentino. YSY A entrega uno de los show más intensos que se pueden encontrar: una comunión con sus fanáticos que se traduce en un momento verdaderamente inolvidable. Alcanza con preguntarle a cualquier persona que haya asistido a un show de YSY A: cada momento de sus presentaciones constituye una verdadera experiencia multisensorial en la que la música y el concepto fluyen con total naturalidad, generando una conexión absoluta y única entre el artista y su público.",
+        "preview": "https://resizer.glanacion.com/resizer/zf8wpi__3wXjRXfQ3gwhUdpU5GM=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HY2ESIWE45FS5KZHUNTAGZVV5Y.JPG",
+        "price": 50,
+        "date": "08-05-2023",
+        "stock": 1500,
+        "soldout": true
+    }
+]
